@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 2, Errors: 0, Skipped: 2, Time elapsed: 27.77 s <<< FAILURE! - in TestSuite
+runScenario(stepDefs.runner.RerunTestNGRunnerTest)  Time elapsed: 6.029 s  <<< FAILURE!
+java.lang.AssertionError
+
+runScenario(stepDefs.runner.TestNGRunnerTest)  Time elapsed: 5.527 s  <<< FAILURE!
+java.lang.AssertionError
+
